@@ -24,4 +24,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bberryw31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br/>
-<img src="https://github.com/bberryw31/bberryw31/blob/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bberryw31/bberryw31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bberryw31/bberryw31/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bberryw31/bberryw31/output/github-contribution-grid-snake.svg">
+</picture>
