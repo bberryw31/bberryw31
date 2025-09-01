@@ -2,11 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jimmy%20Cho&animation=twinkling&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bberryw31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bberryw31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <div style="margin: 0 auto; text-align: center;" align= "center"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -24,10 +19,16 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
 
-###
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bberryw31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bberryw31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/bberryw31/bberryw31/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
